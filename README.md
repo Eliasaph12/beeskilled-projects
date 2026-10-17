@@ -26,7 +26,7 @@ git init
 git add .
 git commit -m "Add IPL dataset analysis project"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/ipl-dataset-analysis.git
+git remote add origin https://github.com/Eliasaph12/beeskilled-projects.git
 git push -u origin main
 ```
-Replace `YOUR-USERNAME` with your GitHub username and use the repository URL GitHub provides.
+
